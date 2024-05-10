@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>EmployeeReportDB</name>
+  <classpath>C:\Users\User\OneDrive\Documents\My Bluetooth\CreswaveCodeTestDeployment\resources\lib\mysql-connector-java-8.0.28.jar</classpath>
+  <driver>com.mysql.jdbc.Driver</driver>
+  <username>root</username>
+  <password>167456</password>
+  <url>jdbc:mysql://localhost/employee_report</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
